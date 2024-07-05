@@ -6,7 +6,7 @@ Le dataset utilisé dans ce projet est le jeu de données [Iris](https://www.kag
 
 ## Objectif
 
-L'objectif de ce projet est de construire un réseau de neurones 'from scratch' pour classifier les espèces de fleurs Iris. En construisant ce réseau de neurones sans utiliser de frameworks spécialisés, nous visons à comprendre en profondeur les mécanismes et les mathématiques sous-jacents au fonctionnement des réseaux de neurones.
+L'objectif de ce projet est de construire un réseau de neurones 'from scratch' pour classifier les espèces de fleurs Iris. En construisant ce réseau de neurones sans utiliser de frameworks spécialisés, on vise à comprendre en profondeur les mécanismes et les mathématiques sous-jacents au fonctionnement des réseaux de neurones.
 
 ## Description du Jeu de Données
 
