@@ -66,4 +66,4 @@ Les résultats de la validation croisée sont visualisés sous forme d'histogram
 
 ## License
 
-Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
+Ce projet est licencié sous la licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
