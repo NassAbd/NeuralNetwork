@@ -64,6 +64,12 @@ Les performances du modèle sont évaluées en termes de précision sur l'ensemb
 
 Les résultats de la validation croisée sont visualisés sous forme d'histogrammes pour montrer la distribution des précisions obtenues à chaque itération. Une courbe normale peut également être tracée pour illustrer la distribution des précisions.
 
+## Captures d'écran
+
+![Neural](./images/imageNeural1.png)
+![Neural](./images/imageNeural2.png)
+![Neural](./images/imageNeural3.png)
+
 ## License
 
 Ce projet est licencié sous la licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
