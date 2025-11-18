@@ -69,7 +69,3 @@ Les résultats de la validation croisée sont visualisés sous forme d'histogram
 ![Neural](./images/imageNeural1.png)
 ![Neural](./images/imageNeural2.png)
 ![Neural](./images/imageNeural3.png)
-
-## License
-
-Ce projet est licencié sous la licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
